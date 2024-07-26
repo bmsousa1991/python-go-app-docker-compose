@@ -34,6 +34,6 @@ Este projeto implementa uma arquitetura de software composta por três principai
 2. O Backend (Python - Writer) coloca os dados no Redis.
 3. O Backend (Go - Reader) consulta o Redis usando a chave “SHAREDKEY” e retorna os dados para o Frontend através do serviço /data.
 
-##Contribuição
+## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto. Faça um fork, crie uma branch, adicione suas alterações e envie um pull request.
